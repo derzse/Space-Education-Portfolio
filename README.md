@@ -39,9 +39,13 @@ Leading Romania's next generation of space scientists through hands-on satellite
 
 ## Repository Structure
 ├── WCRC-2025/
+
 ├── AstroPi-Missions/
+
 ├── CanSat-Championships/
+
 ├── Educational-Resources/
+
 └── Competition-Documentation/
 
 ## Contact
