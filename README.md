@@ -2,7 +2,8 @@
 
 > Leading Romania's next generation of space scientists through hands-on satellite missions and ISS experiments.
 
-[![ESA AstroPi](https://img.shields.io/badge/ESA-AstroPi%20Finalist-blue)](https://astro-pi.org/)
+[![ESA AstroPi](https://img.shields.io/badge/ESA-AstroPi%20Finalist%202021-blue)](https://www.esa.int/Education/AstroPI/The_winners_of_the_European_Astro_Pi_Challenge_Mission_Space_Lab_2020-21)
+[![ESA AstroPi](https://img.shields.io/badge/ESA-AstroPi%20Finalist%202023-blue)](https://www.esa.int/Education/AstroPI/Astro_Pi_Mission_Space_Lab_2022_23_The_results)
 [![WCRC 2025](https://img.shields.io/badge/WCRC%202025-2nd%20Place-gold)](https://wcrc.info/)
 [![Romanian CanSat](https://img.shields.io/badge/Romanian-CanSat%20Champion-red)](https://rospin.ro/)
 
@@ -17,15 +18,9 @@
 | Metric | Achievement |
 |--------|-------------|
 | Students Trained | 500+ |
-| Satellite Missions | 15+ |
+| Satellite Missions | 10+ |
 | International Recognition | Multiple Awards |
-| Years of Experience | 5+ |
-
-## 🎯 Current Leadership Roles
-
-- **Technical Director** - Romanian CanSat/Rocketry Championship (ROSPIN)
-- **Strategic Advisor** - Romanian Space Initiative
-- **Competition Mentor** - World CanSat/Rocketry Championship
+| Years of Experience | 7+ |
 
 ## 📁 Repository Structure
 
@@ -165,7 +160,7 @@
 **Technical Director, Romanian CanSat/Rocketry Championship**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/derzse)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:contact@derzse.space)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:derzse@gmail.com)
 [![ROSPIN](https://img.shields.io/badge/ROSPIN-Official-green)](https://rospin.ro/)
 
 ---
